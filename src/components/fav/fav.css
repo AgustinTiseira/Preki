@@ -1,0 +1,8 @@
+.div-fav{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-bottom: 60px;
+    margin-left: 25px;
+    margin-top: 5%;
+}
